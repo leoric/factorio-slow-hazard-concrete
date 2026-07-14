@@ -1,0 +1,9 @@
+{
+  "name": "slow-hazard-concrete",
+  "version": "0.2.2",
+  "title": "Slow Hazard-Concrete",
+  "author": "dwilson718",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Because striped yellow lines means SLOW THE F*@# DOWN!"
+}
